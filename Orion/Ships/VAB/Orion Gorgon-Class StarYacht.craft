@@ -1,7 +1,7 @@
-ship = (MH) Gorgon-class StarYacht
+ship = Gorgon-Class StarYacht
 version = 1.9.1
 description = A light Medusa-powered vessel for traipsing about the star system.
-type = SPH
+type = VAB
 size = 7.83636999,49.3195343,8.58598709
 steamPublishedFileId = 0
 persistentId = 1555182292
@@ -72,7 +72,7 @@ PART
 	}
 	MODULE
 	{
-		name = ModulePulseEngine
+		name = ModuleNuclearPulseEngine
 		isEnabled = True
 		EngineEnabled = False
 		enginePacked = True

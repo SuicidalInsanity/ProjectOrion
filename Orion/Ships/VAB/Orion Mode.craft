@@ -1,4 +1,4 @@
-ship = (MH) Orion Mode 1
+ship = Orion Mode
 version = 1.11.0
 description = A light Orion test vessel using a modified Saturn V first stage to loft it into a high sub-orbital trajectory prior to Orion Drive activation.
 type = VAB
